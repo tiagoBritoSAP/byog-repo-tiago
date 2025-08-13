@@ -1,0 +1,14 @@
+{
+  "name": "zbyog_tiago",
+  "version": "1.0.0",
+  "description": "ZBYOG_TIAGO",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/86C4C7D7337B1FE09E91AD17D90B4B5E_0"
+  }
+}
